@@ -1,0 +1,10 @@
+C:\Users\brian.wisniewski\source\repos\SerialApp\SerialApp\obj\Debug\SerialApp.Form1.resources
+C:\Users\brian.wisniewski\source\repos\SerialApp\SerialApp\obj\Debug\SerialApp.Properties.Resources.resources
+C:\Users\brian.wisniewski\source\repos\SerialApp\SerialApp\obj\Debug\SerialApp.csproj.GenerateResource.cache
+C:\Users\brian.wisniewski\source\repos\SerialApp\SerialApp\obj\Debug\SerialApp.csproj.CoreCompileInputs.cache
+C:\Users\brian.wisniewski\source\repos\SerialApp\SerialApp\bin\Debug\SerialApp.exe.config
+C:\Users\brian.wisniewski\source\repos\SerialApp\SerialApp\bin\Debug\SerialApp.exe
+C:\Users\brian.wisniewski\source\repos\SerialApp\SerialApp\bin\Debug\SerialApp.pdb
+C:\Users\brian.wisniewski\source\repos\SerialApp\SerialApp\obj\Debug\SerialApp.exe
+C:\Users\brian.wisniewski\source\repos\SerialApp\SerialApp\obj\Debug\SerialApp.pdb
+C:\Users\brian.wisniewski\source\repos\SerialApp\SerialApp\obj\Debug\SerialApp.csprojAssemblyReference.cache
