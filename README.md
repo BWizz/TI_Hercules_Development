@@ -9,6 +9,8 @@ The project is broken down into 2 parts:
     - Contains all source code specfic to the embedded hardware. 
 2. LIDAR PC Visualization Applications
     - Contains all source code for a Python and .NET data visualizer application
+    
+For a demostration, please view the attached video: Hecules_Lidar_&_Visualization_In_Action.MOV
   
 ### Hercules Embedded Development Source Code
 The embedded application contains source code that configures the for FreeRTOS OS and developed device drivers for the RPLIDAR-A2 Rotating Laser Range Scanner.
